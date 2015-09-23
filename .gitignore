@@ -38,3 +38,6 @@ nosetests.xml
 # Excel files
 *.xls
 *.~lock*
+
+.ropeproject
+*.sqlite3
